@@ -1,2 +1,2 @@
 # Userge-Assistant
-assistant-bot for manage [userge OT group](https://t.me/UsergeOT)
+assistant-bot for myself [rohithollabr](https://t.me/rohithollabr1)
