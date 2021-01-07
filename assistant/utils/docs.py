@@ -60,8 +60,8 @@ USERGE = [
     InlineQueryResultArticle(
         title="About UserGe",
         input_message_content=InputTextMessageContent(
-            "**👑 UserGe**\n\n"
-            "**[UserGe](https://github.com/usergeteam/userge) **"
+            "**👑 bots**\n\n"
+            "**[Create your own bot](https://github.com/rohithollabr/Userge-Assistant) **"
             "**is a Powerful , Pluggable Telegram UserBot written in **"
             "**[Python](https://www.python.org/) using **"
             "**[Pyrogram](https://github.com/pyrogram).**",
@@ -70,10 +70,10 @@ USERGE = [
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("👥 Community", url="https://t.me/UserGeOt")
+                    InlineKeyboardButton("👥 My Group", url="https://t.me/rohithollabr1")
                 ],
                 [
-                    InlineKeyboardButton("🗂 GitHub", url="https://github.com/UserGeTeam/UserGe"),
+                    InlineKeyboardButton("🗂 GitHub", url="https://github.com/rohithollabr"),
                     InlineKeyboardButton("📂 Docs", url=f"{userge_wiki}")
                 ]
             ]
@@ -89,7 +89,7 @@ USERGE = [
         reply_markup=InlineKeyboardMarkup([[
             InlineKeyboardButton(
                 "🗂 Source Code",
-                url="https://github.com/UserGeTeam/UserGe-Assistant"
+                url="https://github.com/rohithollabr/UserGe-Assistant"
             ),
             InlineKeyboardButton(
                 "😎 Use Inline!",
